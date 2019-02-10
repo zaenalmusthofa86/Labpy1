@@ -72,6 +72,10 @@ def pengulangan():
 
 pengulangan()
 ```
-3).Berikut Screenshotnya:
+3).Berikut Flowchatnya:
+
+![img](https://github.com/zaenalmusthofa86/Labpy1/blob/master/FlowProgram1.png)
+
+4).Berikut Screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Labpy1/blob/master/Program1.png)
